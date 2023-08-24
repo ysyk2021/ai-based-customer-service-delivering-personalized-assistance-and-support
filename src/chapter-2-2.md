@@ -1,5 +1,3 @@
-Traditional Approaches to Customer Service
-===================================================================================
 
 Traditional approaches to customer service have been used for many years, and they include various channels that customers can use to reach out for assistance. In this chapter, we will explore some of the traditional approaches to customer service.
 

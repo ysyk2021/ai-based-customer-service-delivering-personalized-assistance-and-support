@@ -1,5 +1,3 @@
-Case Studies on the Use of AI in Customer Service
-==============================================================================================
 
 As businesses continue to adopt Artificial Intelligence (AI) technology to improve their customer service experience, many success stories have emerged. In this chapter, we will examine some case studies of companies that have successfully implemented AI-based customer service solutions.
 

@@ -1,5 +1,3 @@
-Sentiment Analysis and Opinion Mining
-==========================================================================================
 
 Sentiment analysis and opinion mining are two AI-based customer service techniques that can help businesses understand how customers feel about their products or services. In this chapter, we will discuss how these techniques work and their benefits for businesses.
 

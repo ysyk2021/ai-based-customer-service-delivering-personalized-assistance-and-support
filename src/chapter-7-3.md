@@ -1,5 +1,3 @@
-Implications for the Future of Personalized Assistance and Support
-=============================================================================================================
 
 AI is transforming the way companies approach customer service, and there are many implications for the future of personalized assistance and support. In this chapter, we will explore these implications.
 

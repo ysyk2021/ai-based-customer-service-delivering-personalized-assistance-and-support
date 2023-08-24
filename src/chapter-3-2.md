@@ -1,5 +1,3 @@
-Advantages and Limitations of AI in Customer Service
-=================================================================================================
 
 As businesses continue to adopt Artificial Intelligence (AI) technology to improve their customer service experience, it is important to understand the advantages and limitations of AI in customer service. In this chapter, we will discuss the pros and cons of using AI in customer service.
 

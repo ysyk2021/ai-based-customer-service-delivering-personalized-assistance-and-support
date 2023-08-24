@@ -1,5 +1,3 @@
-Overview of Implementing AI-Based Customer Service
-========================================================================================================
 
 Implementing AI-based customer service solutions can be a complex process that involves several key considerations. In this chapter, we will provide an overview of the implementation process for AI-based customer service.
 

@@ -1,5 +1,3 @@
-Overview of AI-Based Customer Service Techniques and Strategies
-=============================================================================================================================
 
 AI-based customer service techniques and strategies are transforming the way companies provide assistance and support to their customers. In this chapter, we will provide an overview of some of these techniques and strategies.
 

@@ -1,5 +1,3 @@
-AI-Based Customer Service Techniques and Strategies
-===================================================
 
 In today's era, delivering exceptional customer service is the key to success for any business. With the advent of Artificial Intelligence (AI) technology, companies are now able to enhance their customer service experience, providing personalized assistance and support. In this chapter, we will discuss some of the AI-based customer service techniques and strategies that can help businesses improve their customer service experience.
 

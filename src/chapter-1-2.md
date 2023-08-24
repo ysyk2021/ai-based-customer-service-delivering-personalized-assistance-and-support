@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and Its Applications in Customer Service
-==========================================================================================
 
 Artificial Intelligence (AI) is a rapidly growing field that has the potential to transform many industries, including customer service. In this chapter, we will provide an overview of AI and its applications in customer service.
 

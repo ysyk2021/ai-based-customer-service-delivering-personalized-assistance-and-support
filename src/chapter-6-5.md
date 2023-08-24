@@ -1,5 +1,3 @@
-Business Models and Cost-Effectiveness
-============================================================================================
 
 Implementing AI-based customer service solutions can have significant cost implications for businesses. In this chapter, we will explore different business models for implementing AI-based customer service and how to ensure cost-effectiveness.
 

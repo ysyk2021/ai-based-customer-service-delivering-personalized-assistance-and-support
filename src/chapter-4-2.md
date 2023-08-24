@@ -1,5 +1,3 @@
-Customer Feedback and Interaction Data
-==================================================================================================
 
 Customer feedback and interaction data is a critical component of data collection and analysis for AI-based customer service solutions. In this chapter, we will explore how customer feedback and interaction data can be used to improve customer service.
 

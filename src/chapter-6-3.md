@@ -1,5 +1,3 @@
-Integration with Customer Service Processes and Tools
-===========================================================================================================
 
 Integrating AI-based customer service solutions with existing customer service processes and tools is crucial for effective implementation. In this chapter, we will explore some key considerations for integrating AI-based customer service.
 

@@ -1,5 +1,3 @@
-Overview of Customer Service
-=====================================================================
 
 Customer service is the process of providing assistance and support to customers before, during, and after they purchase a product or service. In this chapter, we will provide an overview of customer service and its importance.
 

@@ -1,5 +1,3 @@
-Social Media and Public Opinion Data
-================================================================================================
 
 Social media and public opinion data are valuable sources of information for improving customer service. In this chapter, we will explore how companies can use social media and public opinion data to enhance their customer service operations.
 

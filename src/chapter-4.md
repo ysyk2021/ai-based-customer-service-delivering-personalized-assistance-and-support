@@ -1,5 +1,3 @@
-Data Collection and Analysis for Customer Service
-=================================================
 
 Data collection and analysis are essential components of AI-based customer service solutions. In this chapter, we will provide an overview of data collection and analysis for customer service and discuss the various types of data that businesses can collect.
 

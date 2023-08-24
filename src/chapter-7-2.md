@@ -1,5 +1,3 @@
-Opportunities and Challenges in Scaling Up AI-Based Customer Service
-===============================================================================================================
 
 AI is transforming the way companies approach customer service, and there are many opportunities and challenges associated with scaling up AI-based solutions. In this chapter, we will explore these opportunities and challenges.
 

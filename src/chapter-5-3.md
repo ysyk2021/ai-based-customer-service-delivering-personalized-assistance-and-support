@@ -1,5 +1,3 @@
-Natural Language Processing and Text Mining
-=========================================================================================================
 
 Natural language processing (NLP) and text mining are powerful AI-based techniques that can be used to enhance customer service operations. In this chapter, we will explore how NLP and text mining can be applied in customer service.
 

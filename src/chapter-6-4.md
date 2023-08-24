@@ -1,5 +1,3 @@
-Employee Education and Engagement
-=======================================================================================
 
 Employee education and engagement are crucial components of successful implementation of AI-based customer service solutions. In this chapter, we will explore how companies can educate and engage employees when implementing AI-based customer service.
 

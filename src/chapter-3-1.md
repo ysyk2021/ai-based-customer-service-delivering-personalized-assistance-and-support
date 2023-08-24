@@ -1,5 +1,3 @@
-Types of Artificial Intelligence and Their Applications in Customer Service
-========================================================================================================================
 
 Artificial Intelligence (AI) in customer service encompasses several different types of AI technologies, each with its own unique applications and benefits. In this chapter, we will discuss the types of AI and their applications in customer service.
 

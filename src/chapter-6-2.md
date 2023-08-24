@@ -1,5 +1,3 @@
-Regulatory and Ethical Considerations
-===========================================================================================
 
 As companies increasingly adopt AI-based customer service solutions, it is essential to consider the regulatory and ethical implications of their implementation. In this chapter, we will explore some of the key considerations for implementing AI-based customer service.
 
